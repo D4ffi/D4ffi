@@ -1,14 +1,14 @@
 ## Hi 👋, I am Coss/D4ffi
 I am a systems engineering student who loves technology and is very passionate with coding and creating/developing software. Also, I love takis.
 ```java
-public Set<Proyect> currentlyWorkingOn = new HashSet<>();
+public Set<Project> currentlyWorkingOn = new HashSet<>();
 
-public Set<Proyects> currentlyWorkingOn(){
+public Set<Project> currentlyWorkingOn(){
 
     // Proyects to practice Java:
-    Proyect minecrafMod   = new Proyect("Relics of Arcana");
-    Proyect game          = new Proyect("Tetris");
-    Proyect basicGame     = new Proyect("Pong");
+    Project minecrafMod   = new Project("Relics of Arcana");
+    Project game          = new Project("Tetris");
+    Project basicGame     = new Project("Pong");
 
     currentlyWorkinOn.add(minecraftMod);
     currentlyWorkinOn.add(game);
