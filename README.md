@@ -1,20 +1,12 @@
-## Hi 👋, I am Coss/D4ffi
-I am a systems engineering student who loves technology and is very passionate with coding and creating/developing software. Also, I love takis.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F733F3&center=true&vCenter=true&random=false&width=1000&lines=Hi!+I+am+D4ffi)](https://git.io/typing-svg)
 ```java
-public Set<Project> currentlyWorkingOn = new HashSet<>();
+public D4ffi(){
+    name           = "Kevin Coss";
 
-public Set<Project> currentlyWorkingOn(){
+    aboutMe        = "I'm currently a systems engineering student that loves tech and coding,
+                      driven by Takis and a passion for creation.";
 
-    // Proyects to practice Java:
-    Project minecrafMod   = new Project("Relics of Arcana");
-    Project game          = new Project("Tetris");
-    Project basicGame     = new Project("Pong");
-
-    currentlyWorkinOn.add(minecraftMod);
-    currentlyWorkinOn.add(game);
-    currentlyWorkinOn.add(basicGame);
-
-    return currentlyWorkingOn;
+    mainProjects[] = {"Relics of Arcana","Tetris", "Pong"};
 }
 ```
 
