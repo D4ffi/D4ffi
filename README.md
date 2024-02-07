@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F733F3&center=true&vCenter=true&random=false&width=1000&lines=Hi!+I+am+D4ffi+✌️;💜💜💜💜💜)](https://git.io/typing-svg)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Coss (D4ffi)
+======================================================================================================================================
+
+### Modder and future Software Developer
+
 ```java
 public D4ffi(){
     name           = "Kevin Coss";
