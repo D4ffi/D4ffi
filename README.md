@@ -6,7 +6,7 @@ public D4ffi(){
     aboutMe        = "I'm currently a systems engineering student that loves tech and coding,
                       driven by Takis and a passion for creation.";
 
-    languages[]      = {"Spanish". "English"};
+    languages[]      = {"Spanish", "English"};
 
     mainProjects[] = {"Relics of Arcana","Tetris", "Pong"};
 }
