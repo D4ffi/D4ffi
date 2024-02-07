@@ -3,7 +3,7 @@
 public D4ffi(){
     name           = "Kevin Coss";
 
-    mainTraits[]   ={ "Persistant, Reliable, Enthusiastic, Supportive, Adaptive" };
+    mainTraits[]   = {"Persistant, Reliable, Enthusiastic, Supportive, Adaptive"};
 
     languages[]    = {"Spanish", "English"};
 
