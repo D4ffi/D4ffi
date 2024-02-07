@@ -10,11 +10,12 @@ public D4ffi(){
 }
 ```
 <h3 align = "left">Currently working on my Minecraft mod ⭐</h2>
-    
-I am Learning: **Java**, **Kotlin** and **Swift** ✅
-    
-I have planned to learn **C++**, **Python** and **JavaScript** 🕘
 
+I like to mod Minecraft in my free time 👀
+    
+I am Learning: **Kotlin** and **Swift** 🕘
+
+<h3> Contact me: </h3>
 <div align = "left">
     <a href = "mailto:koss.cr@outlook.com">
         <img src = "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target ="_blank" />
@@ -23,4 +24,9 @@ I have planned to learn **C++**, **Python** and **JavaScript** 🕘
         <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target ="_blank" />
     </a>
 </div>
-
+<h3>🐱 Languages, Frameworks and Tools 🐱</h3>
+<div align = "left">
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java,idea,vscode,gradle" />
+  </a>
+</div>
