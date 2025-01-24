@@ -7,23 +7,35 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 public D4ffi(){
     name           = "Kevin Coss";
 
-    mainTraits[]   = {"Persistant, Reliable, Enthusiastic, Supportive, Adaptive"};
+    mainTraits[]   = {"Persistant, Creative, Enthusiastic, Supportive, Adaptive"};
 
     languages[]    = {"Spanish", "English"};
 
-    mainProjects[] = {"Okiro Tarot Cards","KMEL SS", "Pong"};
 }
 ```
-I am currently studying systems engineering and I love tech and coding. Also I
+### About Me
 
-* 🌍  I'm based in Mexico
-* ✉️  You can contact me at [koss.cr@outlook.com](mailto:koss.cr@outlook.com)
-* 🧠  I'm learning Kotlin, Python, Swift and polishing my Java knowledge
-* 🤝  I'm open to collaborating on Minecraft modding and Java Projects
-* ⚡  I'm in love with Takis and FuzeTea
+- 💼 Currently in an intership at Hutchison Ports Icave
+- 🌱 Always eager to learn new programming languages and frameworks.
+- 💬 Ask me about Java, .Net, and web development.
+- ⚡ Fun fact: I love playing video games, takis, and FuzeTea.
 
-### Skills
+### Tech Stack
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-</p>
+- **Languages:** Java, JavaScript, HTML, CSS, SQL
+- **Frameworks & Libraries:** React, Node.js, Express, Django, Tailwind
+- **Tools:** Git, Docker, VS Code, Webpack, JetBrains
+- **Databases:** MongoDB, MySQL, PostgreSQL
+
+### Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D4ffi&layout=compact&theme=radical)
+
+### Connect with Me
+
+- [LinkedIn]([https://www.linkedin.com/in/d4ffi](https://www.linkedin.com/in/kevin-coss-/))
+- [Personal Website](https://www.bydaffi.com)
+
+### Recent Projects
+
+- [Okiro Tarot Card Mod](https://www.curseforge.com/minecraft/mc-mods/okiro-tarot-cards): A minecraft fabric mod that adds 24 major arcana cards from tarot that gives special abilities.
