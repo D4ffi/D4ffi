@@ -11,7 +11,7 @@ public D4ffi(){
 
     languages[]    = {"Spanish", "English"};
 
-    mainProjects[] = {"Relics of Arcana","Tetris", "Pong"};
+    mainProjects[] = {"Okiro Tarot Cards","KMEL SS", "Pong"};
 }
 ```
 I am currently studying systems engineering and I love tech and coding. Also I
