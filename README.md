@@ -33,7 +33,7 @@ public D4ffi(){
 
 ### Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/d4ffi](https://www.linkedin.com/in/kevin-coss-/))
+- [LinkedIn](https://www.linkedin.com/in/kevin-coss-25427225b/)
 - [Personal Website](https://www.bydaffi.com)
 
 ### Recent Projects
