@@ -15,10 +15,10 @@ public D4ffi(){
 ```
 ### About Me
 
-- 💼 Currently in an intership at Hutchison Ports Icave
+- 💼 Currently working on my own apps
 - 🌱 Always eager to learn new programming languages and frameworks.
 - 💬 Ask me about Java, .Net, and web development.
-- ⚡ Fun fact: I love playing video games, takis, and FuzeTea.
+- ⚡ Fun fact: I love playing video games, eat takis, and FuzeTea.
 
 ### Tech Stack
 
