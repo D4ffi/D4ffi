@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Coss (D4ffi)
 ======================================================================================================================================
 
-### Modder and future Software Developer
+## Software Developer
 
 ```java
 public D4ffi(){
@@ -15,14 +15,14 @@ public D4ffi(){
 ```
 ### About Me
 
-- 💼 Currently working on my own apps
+- 💼 Currently, I'm working on my own projects.
 - 🌱 Always eager to learn new programming languages and frameworks.
-- 💬 Ask me about Java, .Net, and web development.
+- 💬 I love to learn new languages (I'm learning french and practicing my english rn)
 - ⚡ Fun fact: I love playing video games, eat takis, and FuzeTea.
 
 ### Tech Stack
 
-- **Languages:** Java, JavaScript, HTML, CSS, SQL
+- **Languages:** Java, Rust, Javascript, Typescript.
 - **Frameworks & Libraries:** React, Node.js, Express, Django, Tailwind
 - **Tools:** Git, Docker, VS Code, Webpack, JetBrains
 - **Databases:** MongoDB, MySQL, PostgreSQL
@@ -37,5 +37,5 @@ public D4ffi(){
 - [Personal Website](https://daffidev.com)
 
 ### Recent Projects
-
+- [Allay DSM](https://github.com/D4ffi/allay-app): A minecraft dedicated server manager, made in Rust.
 - [Okiro Tarot Card Mod](https://www.curseforge.com/minecraft/mc-mods/okiro-tarot-cards): A minecraft fabric mod that adds 24 major arcana cards from tarot that gives special abilities.
