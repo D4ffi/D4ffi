@@ -4,20 +4,11 @@
 ╰────────────────────────────────────────────────────────────────╯
 ```
 
-```
-╭─ ~/d4ffi ────────────────────────────────────────────────────────╮
-│                                                                  │
-│        ██████╗ ██╗  ██╗███████╗███████╗██╗                       │
-│        ██╔══██╗██║  ██║██╔════╝██╔════╝██║                       │
-│        ██║  ██║███████║█████╗  █████╗  ██║                       │
-│        ██║  ██║╚════██║██╔══╝  ██╔══╝  ██║                       │
-│        ██████╔╝     ██║██║     ██║     ██║                       │
-│        ╚═════╝      ╚═╝╚═╝     ╚═╝     ╚═╝                       │
-│                                                                  │
-│        › backend developer · rust + web · local-first tools      │
-│                                                                  │
-╰──────────────────────────────────────────────────────────────────╯
-```
+<div align="center">
+
+<img src="assets/whoami.svg" alt="d4ffi@onlyhuman — fastfetch" width="860" />
+
+</div>
 
 <div align="center">
 
@@ -39,16 +30,6 @@
 <img src="https://komarev.com/ghpvc/?username=D4ffi&style=flat-square&color=cba6f7&label=profile+views" />
 &nbsp;
 <img src="https://img.shields.io/badge/open_to_work-a6e3a1?style=flat-square&labelColor=181825" />
-
-</div>
-
----
-
-## ▍ whoami
-
-<div align="center">
-
-<img src="assets/whoami.svg" alt="d4ffi@onlyhuman — fastfetch" width="860" />
 
 </div>
 
