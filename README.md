@@ -14,22 +14,31 @@
 │        ██████╔╝     ██║██║     ██║     ██║                       │
 │        ╚═════╝      ╚═╝╚═╝     ╚═╝     ╚═╝                       │
 │                                                                  │
-│        › software developer · rust + web · arch + hyprland       │
+│        › backend developer · rust + web · local-first tools      │
 │                                                                  │
 ╰──────────────────────────────────────────────────────────────────╯
 ```
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=CBA6F7&center=true&vCenter=true&width=640&height=42&lines=Software+Developer;Rust+%2B+Web+%2B+local-first+tools;Arch+Linux+%2B+Hyprland+%2B+Catppuccin;Class+of+2026+-+open+to+work" alt="typing" />
+<a href="https://www.linkedin.com/in/kevin-coss-25427225b/">
+  <img src="https://img.shields.io/badge/LinkedIn-89b4fa?style=for-the-badge&logo=linkedin&logoColor=181825&labelColor=181825" />
+</a>
+<a href="https://daffidev.com">
+  <img src="https://img.shields.io/badge/daffidev.com-cba6f7?style=for-the-badge&logo=hashnode&logoColor=181825&labelColor=181825" />
+</a>
+<a href="mailto:devstuff@bydaffi.com">
+  <img src="https://img.shields.io/badge/email-f38ba8?style=for-the-badge&logo=maildotru&logoColor=181825&labelColor=181825" />
+</a>
+<a href="https://github.com/D4ffi">
+  <img src="https://img.shields.io/badge/GitHub-a6e3a1?style=for-the-badge&logo=github&logoColor=181825&labelColor=181825" />
+</a>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=D4ffi&style=flat-square&color=cba6f7&label=profile+views" />
 &nbsp;
 <img src="https://img.shields.io/badge/open_to_work-a6e3a1?style=flat-square&labelColor=181825" />
-&nbsp;
-<img src="https://img.shields.io/badge/M%C3%A9xico-f38ba8?style=flat-square&logo=googlemaps&logoColor=181825&labelColor=181825" />
 
 </div>
 
@@ -93,34 +102,29 @@ impl Developer for Daffi {
 ```
 ╭─ hyprctl workspaces ───────────────────────────────────────╮
 │                                                            │
-│   [ 1 ]  active               [ 2 ]  ideas / r&d           │
-│    › skopos                    › entity                    │
-│    › footprint                 › colorimetría méxico       │
-│    › rudix movilidad           › ai token counter          │
+│   [ 1 ]  active                   [ 2 ]  shipped           │
+│    › skopos                        › allay dsm             │
+│    › footprint                     › okiro tarot cards     │
+│    › rudix movilidad                                       │
 │    › surfsense local                                       │
-│                                                            │
-│   [ 3 ]  shipped               [ 4 ]  scratchpad           │
-│    › allay dsm                 › you are here  :)          │
-│    › okiro tarot mod                                       │
-│                                                            │
 ╰────────────────────────────────────────────────────────────╯
 ```
 
-### `[ 1 ]` active &nbsp;·&nbsp; en mosaico ahora mismo
+### `[ 1 ]` active &nbsp;·&nbsp; en desarrollo ahora mismo
 
-> **◆ [skopos](https://github.com/D4ffi/skopos)** &nbsp; ![](https://img.shields.io/badge/active-a6e3a1?style=flat-square&labelColor=181825)
+> **◆ skopos** &nbsp; ![](https://img.shields.io/badge/active-a6e3a1?style=flat-square&labelColor=181825)
 > Observabilidad *local-first* del gasto de tokens y costo de IA. Lee los logs
 > de Claude Code, Codex y Gemini directo del disco y los convierte en reportes
 > CLI + REPL con costo estimado en USD. Monorepo en Rust.
 > `Rust` · `SQLite` · `crossterm` · `CLI/REPL`
 
-> **◆ [footprint](https://github.com/D4ffi/footprint-web)** &nbsp; ![](https://img.shields.io/badge/active-a6e3a1?style=flat-square&labelColor=181825)
+> **◆ footprint** &nbsp; ![](https://img.shields.io/badge/active-a6e3a1?style=flat-square&labelColor=181825)
 > Mapa web personal para marcar cada lugar que has visitado — tipos de marker
 > personalizados, búsqueda radial de sitios y un modo compartido en pareja
 > llamado *lazo*.
 > `React` · `TypeScript` · `Vite` · `Firebase` · `Google Maps`
 
-> **◆ [RuDix Movilidad](https://github.com/Rudix-Mobility/RudixApp)** &nbsp; ![](https://img.shields.io/badge/building-fab387?style=flat-square&labelColor=181825)
+> **◆ RuDix Movilidad** &nbsp; ![](https://img.shields.io/badge/building-fab387?style=flat-square&labelColor=181825)
 > Proyecto de movilidad — app de producto + operación. Construyendo el activo
 > y su tooling.
 > `App` · `Movilidad` · `Producto`
@@ -130,35 +134,20 @@ impl Developer for Daffi {
 > documentos con modelos locales (Gemma 4, Qwen 3) sobre tu propio hardware.
 > `RAG` · `Ollama` · `Gemma 4` · `Qwen 3`
 
-### `[ 2 ]` ideas / r&d &nbsp;·&nbsp; capturado en el 2nd brain
+### `[ 2 ]` shipped &nbsp;·&nbsp; ya en producción
 
-> **◇ ENTITY** &nbsp; ![](https://img.shields.io/badge/idea-f9e2af?style=flat-square&labelColor=181825)
-> Capa de ruteo para Hermes — registrar "entidades" de comunicación (alertas,
-> canales, bots, expertos) para que los outputs del agente lleguen a donde
-> deben, por configuración y no por adivinanza.
-
-> **◇ Colorimetría México** &nbsp; ![](https://img.shields.io/badge/idea-f9e2af?style=flat-square&labelColor=181825)
-> App + servicio híbrido de colorimetría adaptado a México, piloteando en
-> Veracruz / Boca del Río.
-
-> **◇ AI Token Counter** &nbsp; ![](https://img.shields.io/badge/graduated-cba6f7?style=flat-square&labelColor=181825)
-> La investigación base que se convirtió en **skopos** — rutas de logs,
-> dedup y fórmulas de costo de Claude Code / Codex.
-
-### `[ 3 ]` shipped &nbsp;·&nbsp; ya en producción
-
-> **● [Allay DSM](https://github.com/D4ffi/allay-app)** &nbsp; ![](https://img.shields.io/badge/shipped-cba6f7?style=flat-square&labelColor=181825)
+> **● Allay DSM** &nbsp; ![](https://img.shields.io/badge/shipped-cba6f7?style=flat-square&labelColor=181825)
 > Gestor de servidores dedicados de Minecraft, escrito en Rust.
 > `Rust` · `Desktop`
 
-> **● [Okiro Tarot Cards](https://www.curseforge.com/minecraft/mc-mods/okiro-tarot-cards)** &nbsp; ![](https://img.shields.io/badge/shipped-cba6f7?style=flat-square&labelColor=181825)
+> **● Okiro Tarot Cards** &nbsp; ![](https://img.shields.io/badge/shipped-cba6f7?style=flat-square&labelColor=181825)
 > Mod de Fabric que agrega 24 cartas del tarot (arcanos mayores), cada una con
 > su propia habilidad especial.
 > `Java` · `Fabric` · `Minecraft`
 
 ---
 
-## ▍ pacman -Q · tech stack
+## ▍ tech stack
 
 <div align="center">
 
@@ -188,7 +177,7 @@ impl Developer for Daffi {
 
 <img src="https://img.shields.io/badge/Git-fab387?style=flat-square&logo=git&logoColor=181825&labelColor=181825" />
 <img src="https://img.shields.io/badge/Docker-89b4fa?style=flat-square&logo=docker&logoColor=181825&labelColor=181825" />
-<img src="https://img.shields.io/badge/Arch_Linux-89dceb?style=flat-square&logo=archlinux&logoColor=181825&labelColor=181825" />
+<img src="https://img.shields.io/badge/Linux-f9e2af?style=flat-square&logo=linux&logoColor=181825&labelColor=181825" />
 <img src="https://img.shields.io/badge/Hyprland-cba6f7?style=flat-square&logo=hyprland&logoColor=181825&labelColor=181825" />
 <img src="https://img.shields.io/badge/JetBrains-f5c2e7?style=flat-square&logo=jetbrains&logoColor=181825&labelColor=181825" />
 <img src="https://img.shields.io/badge/Ollama-cdd6f4?style=flat-square&logo=ollama&logoColor=181825&labelColor=181825" />
@@ -210,28 +199,9 @@ impl Developer for Daffi {
 
 ---
 
-## ▍ ping · connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/kevin-coss-25427225b/">
-  <img src="https://img.shields.io/badge/LinkedIn-89b4fa?style=for-the-badge&logo=linkedin&logoColor=181825&labelColor=181825" />
-</a>
-<a href="https://daffidev.com">
-  <img src="https://img.shields.io/badge/daffidev.com-cba6f7?style=for-the-badge&logo=hashnode&logoColor=181825&labelColor=181825" />
-</a>
-<a href="mailto:devstuff@bydaffi.com">
-  <img src="https://img.shields.io/badge/email-f38ba8?style=for-the-badge&logo=maildotru&logoColor=181825&labelColor=181825" />
-</a>
-<a href="https://github.com/D4ffi">
-  <img src="https://img.shields.io/badge/GitHub-a6e3a1?style=for-the-badge&logo=github&logoColor=181825&labelColor=181825" />
-</a>
-
-</div>
-
 ```
 ╭────────────────────────────────────────────────────────────────╮
-│  made with takis + FuzeTea             [ press ↓ to connect ]  │
+│  built with rust · coffee · catppuccin mocha                   │
 ╰────────────────────────────────────────────────────────────────╯
 ```
 

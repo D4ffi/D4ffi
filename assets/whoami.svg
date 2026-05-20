@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="430" viewBox="0 0 860 430" font-family="'JetBrains Mono','Courier New',monospace">
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="284" viewBox="0 0 860 284" font-family="'JetBrains Mono','Courier New',monospace">
   <!-- window -->
-  <rect x="1" y="1" width="858" height="428" rx="16" fill="#1e1e2e" stroke="#313244" stroke-width="2"/>
+  <rect x="1" y="1" width="858" height="282" rx="16" fill="#1e1e2e" stroke="#313244" stroke-width="2"/>
   <rect x="1" y="1" width="858" height="44" rx="16" fill="#181825"/>
   <rect x="1" y="29" width="858" height="16" fill="#181825"/>
   <line x1="1" y1="45" x2="859" y2="45" stroke="#313244" stroke-width="2"/>
@@ -13,73 +13,67 @@
   <text x="824" y="28" font-size="14" fill="#6c7086" text-anchor="end">1 2 3 4</text>
 
   <!-- divider -->
-  <line x1="312" y1="72" x2="312" y2="396" stroke="#313244" stroke-width="1"/>
+  <line x1="312" y1="68" x2="312" y2="262" stroke="#313244" stroke-width="1"/>
 
   <!-- ===== D4 monogram (pixel tiles) ===== -->
   <g fill="#cba6f7">
-    <rect x="46" y="84" width="17" height="17" rx="3"/>
-    <rect x="68" y="84" width="17" height="17" rx="3"/>
-    <rect x="90" y="84" width="17" height="17" rx="3"/>
-    <rect x="112" y="84" width="17" height="17" rx="3"/>
-    <rect x="46" y="106" width="17" height="17" rx="3"/>
-    <rect x="134" y="106" width="17" height="17" rx="3"/>
-    <rect x="46" y="128" width="17" height="17" rx="3"/>
-    <rect x="134" y="128" width="17" height="17" rx="3"/>
-    <rect x="46" y="150" width="17" height="17" rx="3"/>
-    <rect x="134" y="150" width="17" height="17" rx="3"/>
-    <rect x="46" y="172" width="17" height="17" rx="3"/>
-    <rect x="134" y="172" width="17" height="17" rx="3"/>
-    <rect x="46" y="194" width="17" height="17" rx="3"/>
-    <rect x="134" y="194" width="17" height="17" rx="3"/>
-    <rect x="46" y="216" width="17" height="17" rx="3"/>
-    <rect x="68" y="216" width="17" height="17" rx="3"/>
-    <rect x="90" y="216" width="17" height="17" rx="3"/>
-    <rect x="112" y="216" width="17" height="17" rx="3"/>
+    <rect x="56" y="74" width="15" height="15" rx="3"/>
+    <rect x="76" y="74" width="15" height="15" rx="3"/>
+    <rect x="96" y="74" width="15" height="15" rx="3"/>
+    <rect x="116" y="74" width="15" height="15" rx="3"/>
+    <rect x="56" y="94" width="15" height="15" rx="3"/>
+    <rect x="136" y="94" width="15" height="15" rx="3"/>
+    <rect x="56" y="114" width="15" height="15" rx="3"/>
+    <rect x="136" y="114" width="15" height="15" rx="3"/>
+    <rect x="56" y="134" width="15" height="15" rx="3"/>
+    <rect x="136" y="134" width="15" height="15" rx="3"/>
+    <rect x="56" y="154" width="15" height="15" rx="3"/>
+    <rect x="136" y="154" width="15" height="15" rx="3"/>
+    <rect x="56" y="174" width="15" height="15" rx="3"/>
+    <rect x="136" y="174" width="15" height="15" rx="3"/>
+    <rect x="56" y="194" width="15" height="15" rx="3"/>
+    <rect x="76" y="194" width="15" height="15" rx="3"/>
+    <rect x="96" y="194" width="15" height="15" rx="3"/>
+    <rect x="116" y="194" width="15" height="15" rx="3"/>
   </g>
   <g fill="#f5c2e7">
-    <rect x="178" y="84" width="17" height="17" rx="3"/>
-    <rect x="244" y="84" width="17" height="17" rx="3"/>
-    <rect x="178" y="106" width="17" height="17" rx="3"/>
-    <rect x="244" y="106" width="17" height="17" rx="3"/>
-    <rect x="178" y="128" width="17" height="17" rx="3"/>
-    <rect x="244" y="128" width="17" height="17" rx="3"/>
-    <rect x="178" y="150" width="17" height="17" rx="3"/>
-    <rect x="200" y="150" width="17" height="17" rx="3"/>
-    <rect x="222" y="150" width="17" height="17" rx="3"/>
-    <rect x="244" y="150" width="17" height="17" rx="3"/>
-    <rect x="266" y="150" width="17" height="17" rx="3"/>
-    <rect x="244" y="172" width="17" height="17" rx="3"/>
-    <rect x="244" y="194" width="17" height="17" rx="3"/>
-    <rect x="244" y="216" width="17" height="17" rx="3"/>
+    <rect x="176" y="74" width="15" height="15" rx="3"/>
+    <rect x="236" y="74" width="15" height="15" rx="3"/>
+    <rect x="176" y="94" width="15" height="15" rx="3"/>
+    <rect x="236" y="94" width="15" height="15" rx="3"/>
+    <rect x="176" y="114" width="15" height="15" rx="3"/>
+    <rect x="236" y="114" width="15" height="15" rx="3"/>
+    <rect x="176" y="134" width="15" height="15" rx="3"/>
+    <rect x="196" y="134" width="15" height="15" rx="3"/>
+    <rect x="216" y="134" width="15" height="15" rx="3"/>
+    <rect x="236" y="134" width="15" height="15" rx="3"/>
+    <rect x="256" y="134" width="15" height="15" rx="3"/>
+    <rect x="236" y="154" width="15" height="15" rx="3"/>
+    <rect x="236" y="174" width="15" height="15" rx="3"/>
+    <rect x="236" y="194" width="15" height="15" rx="3"/>
   </g>
 
   <!-- name + palette -->
-  <text x="48" y="262" font-size="14" fill="#cba6f7">&#8250; kevin coss</text>
+  <text x="58" y="232" font-size="13" fill="#cba6f7">&#8250; kevin coss</text>
   <g>
-    <rect x="48" y="278" width="24" height="20" rx="3" fill="#f38ba8"/>
-    <rect x="78" y="278" width="24" height="20" rx="3" fill="#fab387"/>
-    <rect x="108" y="278" width="24" height="20" rx="3" fill="#f9e2af"/>
-    <rect x="138" y="278" width="24" height="20" rx="3" fill="#a6e3a1"/>
-    <rect x="168" y="278" width="24" height="20" rx="3" fill="#94e2d5"/>
-    <rect x="198" y="278" width="24" height="20" rx="3" fill="#89b4fa"/>
-    <rect x="228" y="278" width="24" height="20" rx="3" fill="#cba6f7"/>
-    <rect x="258" y="278" width="24" height="20" rx="3" fill="#f5c2e7"/>
+    <rect x="56" y="244" width="22" height="18" rx="3" fill="#f38ba8"/>
+    <rect x="83" y="244" width="22" height="18" rx="3" fill="#fab387"/>
+    <rect x="110" y="244" width="22" height="18" rx="3" fill="#f9e2af"/>
+    <rect x="137" y="244" width="22" height="18" rx="3" fill="#a6e3a1"/>
+    <rect x="164" y="244" width="22" height="18" rx="3" fill="#94e2d5"/>
+    <rect x="191" y="244" width="22" height="18" rx="3" fill="#89b4fa"/>
+    <rect x="218" y="244" width="22" height="18" rx="3" fill="#cba6f7"/>
+    <rect x="245" y="244" width="22" height="18" rx="3" fill="#f5c2e7"/>
   </g>
 
   <!-- ===== info ===== -->
-  <text x="340" y="100" font-size="19" font-weight="700"><tspan fill="#cba6f7">daffi</tspan><tspan fill="#6c7086">@</tspan><tspan fill="#89b4fa">hyprland</tspan></text>
-  <line x1="340" y1="112" x2="824" y2="112" stroke="#313244" stroke-width="2"/>
+  <text x="344" y="106" font-size="19" font-weight="700"><tspan fill="#cba6f7">daffi</tspan><tspan fill="#6c7086">@</tspan><tspan fill="#89b4fa">hyprland</tspan></text>
+  <line x1="344" y1="118" x2="820" y2="118" stroke="#313244" stroke-width="2"/>
 
-  <g font-size="16" xml:space="preserve">
-    <text x="340" y="150"><tspan fill="#89b4fa" font-weight="600">os        </tspan><tspan fill="#cdd6f4">Arch Linux  ·  Hyprland (Wayland)</tspan></text>
-    <text x="340" y="177"><tspan fill="#f5c2e7" font-weight="600">host      </tspan><tspan fill="#cdd6f4">class of '26  ·  grad June 2026</tspan></text>
-    <text x="340" y="204"><tspan fill="#a6e3a1" font-weight="600">role      </tspan><tspan fill="#cdd6f4">Software Developer  ·  Rust + Web</tspan></text>
-    <text x="340" y="231"><tspan fill="#cba6f7" font-weight="600">wm        </tspan><tspan fill="#cdd6f4">Catppuccin Mocha  ·  tiling = life</tspan></text>
-    <text x="340" y="258"><tspan fill="#fab387" font-weight="600">langs     </tspan><tspan fill="#cdd6f4">Java · Rust · TypeScript · JavaScript</tspan></text>
-    <text x="340" y="285"><tspan fill="#94e2d5" font-weight="600">editor    </tspan><tspan fill="#cdd6f4">JetBrains IDEs  ·  VS Code</tspan></text>
-    <text x="340" y="312"><tspan fill="#f38ba8" font-weight="600">agent     </tspan><tspan fill="#cdd6f4">Hermes  ·  personal AI ops system</tspan></text>
-    <text x="340" y="339"><tspan fill="#f9e2af" font-weight="600">locale    </tspan><tspan fill="#cdd6f4">es_MX · en_US · fr_FR (learning)</tspan></text>
-    <text x="340" y="366"><tspan fill="#89dceb" font-weight="600">side      </tspan><tspan fill="#cdd6f4">InDriver runs  ·  Hyundai Creta '17</tspan></text>
-    <text x="340" y="393"><tspan fill="#eba0ac" font-weight="600">fuel      </tspan><tspan fill="#cdd6f4">gaming + takis + FuzeTea</tspan></text>
+  <g font-size="17" xml:space="preserve">
+    <text x="344" y="158"><tspan fill="#a6e3a1" font-weight="600">role    </tspan><tspan fill="#cdd6f4">Backend Developer</tspan></text>
+    <text x="344" y="190"><tspan fill="#fab387" font-weight="600">langs   </tspan><tspan fill="#cdd6f4">Java · Rust · TypeScript · JavaScript</tspan></text>
+    <text x="344" y="222"><tspan fill="#94e2d5" font-weight="600">editor  </tspan><tspan fill="#cdd6f4">JetBrains IDEs · VS Code</tspan></text>
+    <text x="344" y="254"><tspan fill="#f9e2af" font-weight="600">locale  </tspan><tspan fill="#cdd6f4">es_MX · en_US · fr_FR (learning)</tspan></text>
   </g>
 </svg>
