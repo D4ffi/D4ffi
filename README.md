@@ -37,23 +37,11 @@
 
 ## ▍ whoami
 
-```
-  daffi@hyprland
-  ──────────────────────────────────────────────────────────
+<div align="center">
 
-   ▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄
-   ███████  ███████    os        Arch Linux · Hyprland (Wayland)
-   ▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀    host      class of '26 · graduating June 2026
-   ▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄    role      Software Developer — Rust + Web
-   █████████  █████    wm        Catppuccin Mocha · tiling is life
-   ▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀    langs     Java · Rust · TypeScript · JavaScript
-   ▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄    editor    JetBrains IDEs · VS Code
-   █████  █████████    agent     Hermes — personal AI ops system
-   ▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀    locale    es_MX · en_US · fr_FR (learning)
-   ▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄    side      InDriver runs · Hyundai Creta '17
-   ███████  ███████    fuel      gaming + takis + FuzeTea
-   ▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀    colors    ███ ███ ███ ███ ███ ███ ███ ███
-```
+<img src="assets/whoami.svg" alt="daffi@hyprland — fastfetch" width="860" />
+
+</div>
 
 > Programador independiente armando herramientas *local-first*. Me obsesiona
 > que las cosas se sientan bien, se vean bien y no dependan de nadie más.
