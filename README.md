@@ -55,7 +55,7 @@
 > Programador independiente armando herramientas *local-first*. Me obsesiona
 > que las cosas se sientan bien, se vean bien y no dependan de nadie más.
 
-```
+```java
 ╭─ ~/Daffi.java ───────────────────────────────────────────╮
 │                                                          │
 │  public class Daffi implements Developer {               │
