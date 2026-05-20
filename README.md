@@ -1,6 +1,6 @@
 ```
 ╭────────────────────────────────────────────────────────────────╮
-│ ‹1› · 2 · 3 · 4         d4ffi@hyprland        catppuccin·mocha │
+│ ‹1› · 2 · 3 · 4         d4ffi@onlyhuman       catppuccin·mocha │
 ╰────────────────────────────────────────────────────────────────╯
 ```
 
@@ -48,24 +48,28 @@
 
 <div align="center">
 
-<img src="assets/whoami.svg" alt="daffi@hyprland — fastfetch" width="860" />
+<img src="assets/whoami.svg" alt="d4ffi@onlyhuman — fastfetch" width="860" />
 
 </div>
 
 > Programador independiente armando herramientas *local-first*. Me obsesiona
 > que las cosas se sientan bien, se vean bien y no dependan de nadie más.
 
-```rust
-impl Developer for Daffi {
-    const NAME: &str        = "Kevin Coss";
-    const TRAITS: [&str; 5] = ["persistent", "creative", "enthusiastic",
-                               "supportive", "adaptive"];
-    const SPEAKS: [&str; 3] = ["es_MX", "en_US", "fr_FR (learning)"];
-
-    fn current_focus(&self) -> Vec<Project> {
-        vec![skopos(), footprint()]   // local-first tooling + web maps
-    }
-}
+```
+╭─ ~/Daffi.java ───────────────────────────────────────────╮
+│                                                          │
+│  public class Daffi implements Developer {               │
+│                                                          │
+│      String   name   = "Kevin Coss";                     │
+│      String[] traits = { "creative", "persistent" };     │
+│      String[] speaks = { "es_MX", "en_US", "fr_FR" };    │
+│                                                          │
+│      public Project[] currentFocus() {                   │
+│          return new Project[]{ skopos(), footprint() };  │
+│      }                                                   │
+│  }                                                       │
+│                                                          │
+╰──────────────────────────────────────────────────────────╯
 ```
 
 ---
